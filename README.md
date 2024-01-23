@@ -1,4 +1,4 @@
-# Iris-data-ML
+# Iris-data-ML-Model 
 
 The model detects the species of the Irish flower based on the given Sepal-Length, Sepal-width, Petal-length and Petal-width.
 
